@@ -1,6 +1,6 @@
 name: Python CI
 
-On:
+on:
     push:
         branches: [ main ]
     pull_request:
